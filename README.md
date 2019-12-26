@@ -4,6 +4,7 @@ Eagle Design BRD file for the 50x50mm Corner PCB Eagle Design Files.
 
 You can watch the youtube video of the design process from beginning to end at:
 
-* Youtube Video: [Eagle PCB Design 50x50mm board M3 mounts and 5mm radius rounded corners
-](https://www.youtube.com/embed/AjLmpPawj-8)
+[![Eagle PCB Design 50x50mm board M3 mounts and 5mm radius rounded corners](https://github.com/WingTechCorner/50x50mm_rounded-corner_PCB/raw/master/Screen%20Shot%202019-12-25%20at%209.42.47%20PM.png)](https://www.youtube.com/embed/AjLmpPawj-8)
 
+Youtube Video: [Eagle PCB Design 50x50mm board M3 mounts and 5mm radius rounded corners
+](https://www.youtube.com/embed/AjLmpPawj-8)
