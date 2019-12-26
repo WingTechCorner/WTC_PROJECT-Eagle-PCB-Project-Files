@@ -8,3 +8,5 @@ You can watch the youtube video of the design process from beginning to end at:
 
 Youtube Video: [Eagle PCB Design 50x50mm board M3 mounts and 5mm radius rounded corners
 ](https://www.youtube.com/embed/AjLmpPawj-8)
+
+Wing Tech Corner Blog Article: [Wing Tech Corner Eagle PCB Design 50x50mm board M3 mount with 5mm radius rounded corners](https://wingtechcorner.com/2019/12/25/creating-quick-and-easy-rounded-corners-in-autodesk-eagle-pcb-design/)
