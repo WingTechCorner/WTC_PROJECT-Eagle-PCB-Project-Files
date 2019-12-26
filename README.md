@@ -1,2 +1,5 @@
-# 50x50mm_rounded-corner_PCB
-BRD files for the 50x50mm rounded corner PCB I cover in my youtube video and tutorial article.
+# Wing Tech Corner's 50x50mm Rounded Corner PCB Eagle Design Files
+
+Eagle Design BRD file for the 50x50mm Corner PCB Eagle Design Files.
+
+You can watch the youtube video of the design process from beginning to end at: https://www.youtube.com/watch?v=AjLmpPawj-8
