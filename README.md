@@ -4,6 +4,10 @@
 
 These are the \*.brd files. No project, just board files.
 
+## /LBR/
+
+These are the library files and objects I create in my tutorial videos.
+
 ## /PROJECTS/
 
 These are full Eagle PCB Project files. They should contain both board(BRD) and schematic(SCH) files.
